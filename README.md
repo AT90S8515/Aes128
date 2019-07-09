@@ -1,6 +1,20 @@
 # Aes128 ![Version 1.0](https://img.shields.io/badge/Version-1.0-brightgreen.svg) ![Build passed](https://img.shields.io/badge/Build-Passed-brightgreen.svg)
 
-About aes.
+Aes128 is a library for encrypting and decrypting files with the AES algorithm with a key length of 128 bits. The library supports PC class devices and 8-bit AVR microcontrollers.
+
+## Compiling
+
+To use the library, just attach "Aes128.h" and "Aes128.cpp" to the project and that's it.
+
+## Building standalone app (PC)
+
+To build standalone application for desktop use premake.
+
+Example:
+```
+premake5 gmake2
+make
+```
 
 
 ## License
