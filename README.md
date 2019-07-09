@@ -1,6 +1,6 @@
 # Aes128 ![Version 1.0](https://img.shields.io/badge/Version-1.0-brightgreen.svg) ![Build passed](https://img.shields.io/badge/Build-Passed-brightgreen.svg)
 
-Aes128 is a library for encrypting and decrypting files with the AES algorithm with a key length of 128 bits. The library supports PC class devices and 8-bit AVR microcontrollers.
+Aes128 is a library for encrypting and decrypting files with the AES algorithm with a key length of 128 bits. The library supports PC class devices and 8-bit AVR microcontrollers. ![PC](https://img.shields.io/badge/PC-blue.svg) ![AVR](https://img.shields.io/badge/AVR-blue.svg)
 
 ## Compiling
 
