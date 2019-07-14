@@ -37,6 +37,7 @@ project "Aes128"
 
 	filter "system:linux"
 		toolset "clang"
+		links "pthread"
 
 	filter "configurations:Debug"
 		runtime "Debug"

@@ -9,7 +9,7 @@
 Aes* aes = nullptr;
 size_t outputSize = 0;
 
-std::string FindParam(int argc, char* argv[], char param[])
+std::string FindParam(int argc, char* argv[], const char* param)
 {
 	for (int i = 0; i < argc; i++)
 	{
